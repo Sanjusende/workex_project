@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Icons/graphics" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <polygon id="Path" points="0 0 28 0 28 28 0 28"></polygon>
+            <path d="M14,24.5 C19.7989899,24.5 24.5,19.7989899 24.5,14 C24.5,8.20101013 19.7989899,3.5 14,3.5 C8.20101013,3.5 3.5,8.20101013 3.5,14" id="Oval" stroke="#FFFFFF" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" transform="translate(14.000000, 14.000000) rotate(180.000000) translate(-14.000000, -14.000000) "></path>
+            <polyline id="Path" stroke="#00D58B" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" points="9.5 12.2083333 13.625 16.3333333 24.625 5.33333333"></polyline>
+        </g>
+    </g>
+</svg>
